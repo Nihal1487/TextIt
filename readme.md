@@ -12,15 +12,15 @@ Text-It is ideal for developers, students, and professionals who need a quick wa
 ### **ScreenShot**
  
  ## Home Page Preview
-![Home Page Preview](../textit/public/screenshot/01.png)
+![Home Page Preview](./public/screenshot/01.png)
  
  ## File Upload Page Preview
 
-![file Upload Page Preview](../textit/public/screenshot/02.png)
+![file Upload Page Preview](./public/screenshot/02.png)
 
 ## FileList Page Preview
 
-![fileList Page Preview](../textit/public/screenshot/03.png)  
+![fileList Page Preview](./public/screenshot/03.png)  
 
 
 
