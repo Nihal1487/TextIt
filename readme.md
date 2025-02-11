@@ -4,7 +4,7 @@
 ---
 
 ### **Overview**  
-Text-It is a streamlined platform designed for effortless text and file sharing. Instantly generate unique URLs for easy content distribution, with the option to assign custom filenames. All shared content is securely stored, ensuring seamless access and downloads. 
+TextIt is a streamlined platform designed for effortless text and file sharing. Instantly generate unique URLs for easy content distribution, with the option to assign custom filenames. All shared content is securely stored, ensuring seamless access and downloads. 
 
 Text-It is ideal for developers, students, and professionals who need a quick way to share snippets, notes, and files. Whether you're collaborating on code, sharing lecture notes, or distributing project documentation, Text-It provides a simple and efficient solution. The platform ensures data security, reliability, and ease of access for all users. 
 
